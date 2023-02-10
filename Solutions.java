@@ -1,5 +1,6 @@
 public class Solutions {
 
+    // TODO: you have to implement the overloaded max3 method for doubles
     public static int max3(int a, int b, int c){
         int result;
         if (a == c && a == b){
